@@ -1,0 +1,59 @@
+body{
+    overflow: hidden;
+}
+
+i {
+    font-size: 11px;
+}
+
+p {
+    font-size: 12px;
+}
+
+.info p {
+    color: #777;
+}
+
+.info p,
+.info a {
+    padding: 0px;
+    margin: 0;
+    font-size: 12px
+}
+
+
+.title {
+    font-size: 15px;
+}
+
+.Employment {
+    font-size: 12px;
+}
+
+.container-fluid {
+    width: 21.59cm;
+    overflow: auto;
+    height: calc(100vh - 15px);
+    margin-top:10px;
+
+}
+
+.descripcion small {
+    font-size: 10px;
+}
+
+.working small {
+    position: relative;
+    top: -8px;
+}
+
+label {
+    margin: 0;
+}
+.progress{
+    height: 5px;
+}
+
+.skils{
+    margin-top: 10px;
+}
