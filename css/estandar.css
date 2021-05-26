@@ -10,6 +10,13 @@ p {
     font-size: 12px;
 }
 
+header{
+    position: sticky;
+    top: -16px;
+    background: white;
+    z-index: 1;
+}
+
 .info p {
     color: #777;
 }
