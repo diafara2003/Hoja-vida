@@ -1,6 +1,6 @@
-body{
+/* body{
     overflow: hidden;
-}
+} */
 
 i {
     font-size: 11px;
@@ -39,8 +39,8 @@ header{
 
 .container-fluid {
     width: 21.59cm;
-    overflow: auto;
-    height: calc(100vh - 15px);
+    /* overflow: auto;
+    height: calc(100vh - 15px); */
     margin-top:10px;
 
 }
