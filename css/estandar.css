@@ -12,7 +12,7 @@ p {
 
 header{
     position: sticky;
-    top: -16px;
+   
     background: white;
     z-index: 1;
 }
